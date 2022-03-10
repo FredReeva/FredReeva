@@ -12,9 +12,10 @@
 - Technology and science, in particular astronomy 🚀🌌
 - Games 👾🎮
 
-- 📫 How to reach me: <maver.federico@gmail.com>
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me: <maver.federico@gmail.com>
 <p align="left">
 <a href="https://linkedin.com/in/federico-maver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="federico-maver" height="30" width="40" /></a>
 <a href="https://instagram.com/fred.reeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fred.reeva" height="30" width="40" /></a>
