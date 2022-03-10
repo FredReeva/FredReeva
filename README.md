@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">I'm a student of Music and Acoustic Engineering 🎶💻 at Politecnico di Milano 🇮🇹; I have a bachelor degree in physics engineering 🔭 at Politecnico di Milano.</h3>
+
+<h3 align="center">I'm a student of Music and Acoustic Engineering 🎶💻 at Politecnico di Milano 🇮🇹;
+  I have a bachelor degree in Physics Engineering 🔭 at Politecnico di Milano.
+</h3>
 
 - I’m currently working on some university projects, looking forward to start my master thesis 🎓
 
@@ -13,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png" alt="ableton" width="40" height="40"/> </a> 
+<!--   <a href="https://www.ableton.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Ableton_Live_logo.png" alt="ableton" width="40" height="40"/> </a>  -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -35,5 +38,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fredreeva&show_icons=true&locale=en&layout=compact" alt="fredreeva" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredreeva&show_icons=true&locale=en" alt="fredreeva" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fredreeva&" alt="fredreeva" /></p>
