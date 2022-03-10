@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Federico</h1>
+<h1 align="center">Hello there 👋, I'm Federico</h1>
 
 <h3 align="center">I'm a student of Music and Acoustic Engineering 🎶💻 at Politecnico di Milano 🇮🇹;
   I have a bachelor degree in Physics Engineering 🔭 at Politecnico di Milano.
