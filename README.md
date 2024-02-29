@@ -1,17 +1,18 @@
 <h1 align="center">Hello there 👋, I'm Federico</h1>
 
-<h3 align="center">I'm a student of Music and Acoustic Engineering 🎶💻 at Politecnico di Milano 🇮🇹;
-  I have a bachelor degree in Physics Engineering 🔭 at Politecnico di Milano.
+<h3 align="center">
+  🎓 Physics Engineering
+  🎓 Music and Acoustic Engineering 
+  💻 Design Engineer @ BdSound
 </h3>
 
-- I’m currently working on some university projects, looking forward to start my master thesis 🎓
-
 ### What I like:
-- Listening to music 🎧💿
+- Listening to music 🎧
 - Playing guitar 🎸
-- Technology and science, in particular astronomy 🚀🌌
-- Games 👾🎮
-
+- Tech and AI 👾
+- Science, in particular astronomy 🌌
+- Games 🎮
+- 3D printing 🗿
 
 
 <h3 align="left">Connect with me:</h3>
