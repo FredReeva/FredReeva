@@ -16,6 +16,6 @@
 - 3D printing 🗿
 - Playing guitar 🎸
 
-## Reach me:
+## Contact me:
 - <a href="mailto:maver.federico@gmail" target="blank"><img align="center" src="https://www.svgrepo.com/show/452213/gmail.svg" alt="maver.federico@gmail.com" height="40"/></a> maver.federico@gmail.com 
 - <a href="https://linkedin.com/in/federico-maver" target="blank"><img align="center" src="https://www.svgrepo.com/show/353999/linkedin.svg" alt="federico-maver" height="80"/></a>
